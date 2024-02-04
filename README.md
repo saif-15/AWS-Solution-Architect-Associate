@@ -24,3 +24,23 @@ A guided path to pass AWS certified solution architect associate exam
 4. Account Protection Using MFA and Password policies
 5. Different ways to access AWS through( Management Console, CLI tool, SDK )
 6. IAM Best Practices and guidelines
+
+## Day 4: Elastic Compute Cloud EC2
+1. What is EC2 Instance
+2. EC2 Instance types and Configuration Options
+3. EC2 Instances Naming conventions
+4. What are Security Groups
+5. EC2 Instances Purchasing Options
+6. Public IP vs Private IP vs Elastic IP
+7. What are Placement Groups
+
+## Day 5 : EC2 Storage 
+1. What are EBS volumes
+2. What are EBS Snapshots and features
+3. EBS Volume types (gp2/gp3 .. etc )
+4. EBS Multi Attach
+5. EC2 Instance Store
+6. What are AMIs (Amazon Machine Images)
+7. What is Amazon EFS
+8. EFS Performance and Storage Classes
+9. EFS vs EBS vs Instance Store
