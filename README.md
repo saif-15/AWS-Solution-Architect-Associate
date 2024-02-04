@@ -1,3 +1,5 @@
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 # AWS-Solution-Architect-Associate
 A guided path to pass AWS certified solution architect associate exam
 
