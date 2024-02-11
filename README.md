@@ -46,3 +46,17 @@ A guided path to pass AWS certified solution architect associate exam
 7. What is Amazon EFS
 8. EFS Performance and Storage Classes
 9. EFS vs EBS vs Instance Store
+
+## Day 6 : High Availablity and AutoScaling
+1. Vertical and Horizontal Scaling
+2. Elastic Load Balancer
+3. Why to use LB?
+4. Why to use ELBs?
+5. Elastic Load balancer Security Groups
+6. Application vs Network vs Gateway vs Classic Load balancer
+7. ELB target groups
+8. Sticky Sessions
+9. Cross Zone Load balancing
+10. Connection Draining
+11. Auto Scaling Groups
+12. CloudWatch Alarms and Scaling
