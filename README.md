@@ -60,3 +60,14 @@ A guided path to pass AWS certified solution architect associate exam
 10. Connection Draining
 11. Auto Scaling Groups
 12. CloudWatch Alarms and Scaling
+
+## Day 7 : AWS RDS
+1. What is RDS?
+2. Why to use RDS inplace of EC2 DB deploment?
+3. RDS Storage auto Scaling
+4. Read Replicas
+5. Multi AZ
+6. RDS Custom
+7. Amazon Aurora and Db cluster
+8. Autoscaling and High Availablity
+9. Features of Aurora
