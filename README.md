@@ -71,3 +71,8 @@ A guided path to pass AWS certified solution architect associate exam
 7. Amazon Aurora and Db cluster
 8. Autoscaling and High Availablity
 9. Features of Aurora
+10. RDS backups
+11. RDS security
+12. RDS proxy
+13. AWS ElastiCache
+14. Redis vs Memcache
