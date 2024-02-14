@@ -76,3 +76,12 @@ A guided path to pass AWS certified solution architect associate exam
 12. RDS proxy
 13. AWS ElastiCache
 14. Redis vs Memcache
+
+## Day 8 : AWS Route 53
+1. What is DNS?
+2. DNS Terminologies ( Domain registrar, dns records, zonde file,name server, top level and second level domain)
+3. URL breakdown
+4. How DNS works?
+5. Route 53
+6. Record and types of records (A,AAAA,CNAME,NS,TTL,ALIAS)
+7. Hosted Zones (Private vs Public HZ)
