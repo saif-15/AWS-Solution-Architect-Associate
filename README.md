@@ -85,3 +85,14 @@ A guided path to pass AWS certified solution architect associate exam
 5. Route 53
 6. Record and types of records (A,AAAA,CNAME,NS,TTL,ALIAS)
 7. Hosted Zones (Private vs Public HZ)
+8. Route 53 routing policies (Simple,weighted,latency,geolocation,failover,geoproximity,ip-based,multivalued)
+
+## Day 9 : Elastic Beanstalk
+1. How to instantiate Application Quickly?
+2. Golden AMIs, EC2 User Data
+3. Developers Problems on AWS
+4. Creating Application in beanstalk
+5. Creating Env in beanstalk
+6. Deploying a simple application code on beanstalk
+7. Review underline infrastructure build by beanstalk in CloudFormation template stacks
+
