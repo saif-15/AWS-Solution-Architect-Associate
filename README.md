@@ -96,3 +96,16 @@ A guided path to pass AWS certified solution architect associate exam
 6. Deploying a simple application code on beanstalk
 7. Review underline infrastructure build by beanstalk in CloudFormation template stacks
 
+## Day 10 : AWS S3
+1. What is S3 service?
+2. S3 buckets and objects
+3. Usecases of S3
+4. S3 Security
+5. S3 Bucket policies
+6. S3 Versioning
+7. S3 Storage Classes
+8. S3 Replication
+9. S3 Lifecycle Rules
+10. S3 Event Notification
+11. Amazon EventBridge
+12. S3 Performance
