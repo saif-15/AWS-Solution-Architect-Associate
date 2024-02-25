@@ -109,3 +109,6 @@ A guided path to pass AWS certified solution architect associate exam
 10. S3 Event Notification
 11. Amazon EventBridge
 12. S3 Performance
+13. S3 Encryption (SSE,CSE)
+14. S3 delete MFA
+15. S3 Access logs
