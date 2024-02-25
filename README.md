@@ -112,3 +112,12 @@ A guided path to pass AWS certified solution architect associate exam
 13. S3 Encryption (SSE,CSE)
 14. S3 delete MFA
 15. S3 Access logs
+
+## Day 11 : AWS CloudFront and Global Accelerator
+1. WHat is CDN?
+2. Globally Edge Locations on AWS
+3. What is Cloudfront origin?
+4. Unicast and Anycast IP
+5. Global accelerator
+6. Leverage AWS network over public network
+7. Cloudfront vs accelerator
