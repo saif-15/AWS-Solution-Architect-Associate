@@ -121,3 +121,29 @@ A guided path to pass AWS certified solution architect associate exam
 5. Global accelerator
 6. Leverage AWS network over public network
 7. Cloudfront vs accelerator
+
+## Day 12 : AWS VPC 
+1. What is VPC (Virtual Private Cloud)
+2. CIDR (Classless Inter Domain Routing) IPv4
+3. Private Vs Public IPs
+4. Base IP And Subnet Mask
+5. Understand Subnet Mask with Examples
+6. VPC Specifications in AWS
+7. Private and Public Subnets
+8. Internet Gateway
+9. Baston Hosts
+10. NAT Instances
+11. NAT Gateway
+12. What is NACL (Network Access Control List)
+13. Inbound and Outbound rules in NACL
+14. Emphemeral Port
+15. Security Groups VS NACL
+16. VPC Peering
+17. VPC Endpoints
+18. Types of Endpoints
+19. VPC Flow Logs
+20. Troubleshooting Issues in NACL and SGs
+21. Direct Connect (DX)
+22. Transit Gateway
+23. VPC Traffic Mirroring
+24. Site 2 Site VPN connection
