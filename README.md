@@ -122,7 +122,7 @@ A guided path to pass AWS certified solution architect associate exam
 6. Leverage AWS network over public network
 7. Cloudfront vs accelerator
 
-## Day 12 : AWS VPC 
+## Day 13 : AWS VPC 
 1. What is VPC (Virtual Private Cloud)
 2. CIDR (Classless Inter Domain Routing) IPv4
 3. Private Vs Public IPs
@@ -137,13 +137,34 @@ A guided path to pass AWS certified solution architect associate exam
 12. What is NACL (Network Access Control List)
 13. Inbound and Outbound rules in NACL
 14. Emphemeral Port
-15. Security Groups VS NACL
-16. VPC Peering
-17. VPC Endpoints
-18. Types of Endpoints
-19. VPC Flow Logs
-20. Troubleshooting Issues in NACL and SGs
-21. Direct Connect (DX)
-22. Transit Gateway
-23. VPC Traffic Mirroring
-24. Site 2 Site VPN connection
+
+## Day 14 : AWS VPC
+16. Security Groups VS NACL
+17. VPC Peering
+18. VPC Endpoints
+19. Types of Endpoints
+20. VPC Flow Logs
+21. Troubleshooting Issues in NACL and SGs
+22. Direct Connect (DX)
+23. Transit Gateway
+24. VPC Traffic Mirroring
+25. Site 2 Site VPN connection
+26. IPv6
+27. Egress Only Internet Gateway
+28. Networking Cost in AWS
+29. Minimize Egress Cost
+30. Network Protection In AWS
+31. AWS Network Firewall
+
+## Day 15 : Containers On AWS
+1. Docker
+2. Containers Vs Virtual Machines
+3. ECS vs EKS vs ECR
+4. What is Fargate
+5. ECS Launch types (EC2, Fargate)
+6. ECS and ALB integration
+7. Mount EFS on ECS tasks
+8. ECS Tasks vs Service
+9. ECS service auto scaling
+
+
