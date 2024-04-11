@@ -166,5 +166,11 @@ A guided path to pass AWS certified solution architect associate exam
 7. Mount EFS on ECS tasks
 8. ECS Tasks vs Service
 9. ECS service auto scaling
+10. Amazon ECR
+11. Amazon EKS overview
+12. EKS Data Volumes Support
+13. AWS App Runner
+
+## Day 16
 
 
