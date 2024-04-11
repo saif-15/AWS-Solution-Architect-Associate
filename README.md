@@ -171,6 +171,12 @@ A guided path to pass AWS certified solution architect associate exam
 12. EKS Data Volumes Support
 13. AWS App Runner
 
-## Day 16
+## Day 16 : Storage Extras
+1. AWS Snowball Family
+2. Amazon FSx
+3. Storage Gateways
+4. AWS Transfer Family
+5. AWS DataSync
+6. AWS Storage services comparison
 
 
