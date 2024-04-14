@@ -179,4 +179,33 @@ A guided path to pass AWS certified solution architect associate exam
 5. AWS DataSync
 6. AWS Storage services comparison
 
+## Day 17 : AWS SQS
+1. Why need to decouple applications?
+2. Standard Queue
+3. Multiple EC2 Consumers
+4. SQS with ASG
+5. SQS Security
+6. SQS - Message Visiblity Timeout
+7. Long Polling
+8. FIFO Queues
+
+## Day 18 : AWS SNS
+1. Pub/Sub Model
+2. Topic publish Vs Direct publish
+3. SNS security
+4. SNS + SQS Fan out Architecture
+5. FIFO topics
+6. Message Filtering
+
+## Day 19 : Kinesis
+1. Why need message streaming platform
+2. Kinesis Data Streams (KDS)
+3. Kinesis Data Firehose (KDF)
+4. Kinesis Data Analytics (KDA)
+5. Kinesis Video streaming (KVS)
+6. KDS Capacity modes
+7. KDS Security
+8. SQS vs SNS vs KDS
+9. Amazon MQ (managed service as rabbitMQ)
+
 
