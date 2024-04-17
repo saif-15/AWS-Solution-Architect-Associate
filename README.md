@@ -208,4 +208,25 @@ A guided path to pass AWS certified solution architect associate exam
 8. SQS vs SNS vs KDS
 9. Amazon MQ (managed service as rabbitMQ)
 
+## Day 20 : Databases in AWS
+1. RDS
+2. Aurora
+3. ElastiCache
+4. DynamoDB
+5. DocumentDB (Managed mongoDB)
+6. Neptune
+7. Keyspaces (Apache Cassendra)
+8. QLDB (Quauntum Ledger DB)
+9. Timestream
+
+## Day 21 : AWS Serverless
+1. Aws serverless services
+2. AWS lambda
+3. Lambda integration
+4. Serverless cron jobs
+5. lambda Pricing
+6. lambda limitation
+7. lambda snapstart
+8. Lambda in VPC
+9. Integration with RDS / Aurora
 
