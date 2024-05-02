@@ -230,3 +230,29 @@ A guided path to pass AWS certified solution architect associate exam
 8. Lambda in VPC
 9. Integration with RDS / Aurora
 
+## Day 22 : AWS Serverless
+10. DynamoDB
+11. DynamoDB capacity Modes
+12. DynamoDB accelator
+13. Streamprocessing
+14. Global tables
+15. Backups and disaster recovery
+16. DynamoDB integration with S3
+17. AWS API Gateway
+18. API Gateway security
+19. Step Functions
+20. Amazon Cognito
+
+## Day 23 : Machine Learning
+1. Amazon Rekognition
+2. Amazon Transcribe
+3. Amazon Polly
+4. Amazon Translate
+5. Amazon Lex
+6. Amazon Connect
+7. Amazon Comprehend
+8. Amazon SageMaker
+9. Amazon Forecast
+10. Amazon Kendra
+11. Amazon Personalize
+12. Amazon Textract
