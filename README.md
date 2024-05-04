@@ -256,3 +256,17 @@ A guided path to pass AWS certified solution architect associate exam
 10. Amazon Kendra
 11. Amazon Personalize
 12. Amazon Textract
+
+## Day 24 : Data Analytics on AWS
+1. Amazon Athena
+2. Amazon Redshift
+3. Redshift cluster + Snapshots + disaster recovery
+4. Redshist spectrum
+5. Amazon OpenSearch
+6. Amazon EMR
+7. Amazon Quicksight
+8. Amazon Glue
+9. AWS Data lake Formation
+10. Kinesis Data Analytics
+11. Amazon MSK
+12. Big Data Ingestion pipeline on AWS
