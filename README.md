@@ -270,3 +270,18 @@ A guided path to pass AWS certified solution architect associate exam
 10. Kinesis Data Analytics
 11. Amazon MSK
 12. Big Data Ingestion pipeline on AWS
+
+## Day 25 : Disaster Recovery
+1. DR Strategies
+2. Data Migration Service
+3. DMS targets and sources
+4. Schema Conversion tool SCT
+5. DMS - data replications
+6. RDS and Aurora Mysql Migration
+7. RDS and Aurora PostgreSQL Migration
+8. On Prem Strategies with AWS
+9. AWS Backup
+10. AWS BAckuo Vault lock
+11. Application Discovery Service
+12. Application Migration Service
+13. Transfering Large Data in AWS
