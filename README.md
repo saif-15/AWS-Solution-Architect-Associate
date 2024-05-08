@@ -281,7 +281,23 @@ A guided path to pass AWS certified solution architect associate exam
 7. RDS and Aurora PostgreSQL Migration
 8. On Prem Strategies with AWS
 9. AWS Backup
-10. AWS BAckuo Vault lock
+10. AWS Backup Vault lock
 11. Application Discovery Service
 12. Application Migration Service
 13. Transfering Large Data in AWS
+
+## Day 26 : More Services
+1. Cloudformation
+2. Cloudformation Service roles
+3. Amazon SES
+4. Amazon Pinpoint
+5. Systems Manager - SSM Session Manager
+6. Systems Manager - Run Command
+7. Systems Manager - Patch Manager
+8. Systems Manager - Maintenance Windows
+9. Systems Manager - Automation
+10. AWS Cost Explorer
+11. AWS Batch
+12. Batch vs Lambda
+13. Amazon Appflow
+14. Amazon Amplify
